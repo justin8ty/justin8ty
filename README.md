@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-2nd year Computer Science student. I want to make a difference with technology.
+2nd year Computer Science student. I seek to provide value for stakeholders through technology, guided by a sense of technological optimism.
 
 Connect with me on:
 
