@@ -2,8 +2,6 @@
 
 2nd year Computer Science student. I seek to provide value for stakeholders through technology, guided by a sense of technological optimism.
 
-📜 Resume: https://rxresu.me/tjy-justin/justin-tan-resume-swe
-
 Connect with me on:
 
 💊 LinkedIn: https://www.linkedin.com/in/justin8ty/
