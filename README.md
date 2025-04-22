@@ -14,7 +14,7 @@ Skills:
 
 C++, Java, JavaScript, TypeScript, Python, SQL, HTML, CSS
 
-Firebase, Git, React.js, Next.js, Tailwind CSS, Flutter, Figma, Node.js, MySQL
+Firebase, Git, React.js, Next.js, Tailwind CSS, Flutter, Figma, Node.js, MySQL, Linux
 
 I can speak English, Chinese, Malay.
 
