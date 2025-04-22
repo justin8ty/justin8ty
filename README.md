@@ -1,4 +1,4 @@
-## Hi there 👋
+## Hi there, I am Justin 👋
 
 2nd year Computer Science student. I seek to provide value for stakeholders through technology, guided by a sense of technological optimism.
 
