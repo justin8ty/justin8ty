@@ -1,5 +1,13 @@
 ## Hi there 👋
 
+I want to make a difference with technology.
+
+💊 LinkedIn: https://www.linkedin.com/in/justin8ty/
+
+📜 Resume: https://rxresu.me/tjy-justin/justin-tan-resume-swe
+
+📧 Email: justin8ty@gmail.com
+
 <!--
 **justin8ty/justin8ty** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
