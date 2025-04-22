@@ -1,12 +1,22 @@
 ## Hi there 👋
 
-I want to make a difference with technology.
+2nd year Computer Science student. I want to make a difference with technology.
+
+Connect with me on:
 
 💊 LinkedIn: https://www.linkedin.com/in/justin8ty/
 
 📜 Resume: https://rxresu.me/tjy-justin/justin-tan-resume-swe
 
 📧 Email: justin8ty@gmail.com
+
+Skills:
+
+C++, Java, JavaScript, TypeScript, Python, SQL, HTML, CSS
+
+Firebase, Git, React.js, Next.js, Tailwind CSS, Flutter, Figma, Node.js, MySQL
+
+I can speak English and Chinese.
 
 <!--
 **justin8ty/justin8ty** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
