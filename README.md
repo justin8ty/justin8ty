@@ -16,7 +16,7 @@ C++, Java, JavaScript, TypeScript, Python, SQL, HTML, CSS
 
 Firebase, Git, React.js, Next.js, Tailwind CSS, Flutter, Figma, Node.js, MySQL
 
-I can speak English and Chinese.
+I can speak English, Chinese, Malay.
 
 <!--
 **justin8ty/justin8ty** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
