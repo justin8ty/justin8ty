@@ -12,9 +12,9 @@ Connect with me on:
 
 Skills:
 
-C++, Java, JavaScript, TypeScript, Python, SQL, HTML, CSS, Dart
+👨‍💻 C++, Java, JavaScript, TypeScript, Python, SQL, HTML, CSS, Dart
 
-Firebase, Git, React.js, Next.js, Tailwind CSS, Flutter, Figma, Node.js, MySQL, Linux
+💽 Firebase, Git, React.js, Next.js, Tailwind CSS, Flutter, Figma, Node.js, MySQL, Linux
 
 I can speak English, Chinese, Malay.
 
