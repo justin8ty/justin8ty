@@ -2,7 +2,7 @@
 
 2nd year Computer Science student @ MMU. Web3 enthusiast. I seek to provide value for stakeholders through technology, guided by a sense of technological optimism.
 
-📜 Resume: https://rxresu.me/justinty/justin-tan-resume-swe
+📜 Resume: https://rxresu.me/justinty/justin-tan-resume
 
 Connect with me on:
 
