@@ -1,34 +1,11 @@
 ## Hi there, I am Justin 👋
 
-2nd year Computer Science student @ MMU. Web3 enthusiast. I seek to provide value for stakeholders through technology, guided by a sense of technological optimism.
+Hi, I'm a Computer Science graduate at Multimedia University. I've interned as a software engineer at Boostorder.
 
-📜 Resume: https://justinty.pages.dev/justin-tan-resume-swe.pdf
+At university, I helped organize Tech Career Days and CodeNection with IT Society, conducted a web security workshop, among other things.
 
-Connect with me on:
-
-💊 LinkedIn: https://www.linkedin.com/in/justin8ty/
-
-📧 Email: justin8ty@gmail.com
-
-Skills:
-
-👨‍💻 C++, Java, JavaScript, TypeScript, Python, SQL, HTML, CSS, Dart
-
-💽 Firebase, Git, React.js, Next.js, Tailwind CSS, Flutter, Figma, Node.js, MySQL, Linux
-
-🦜 I can speak English, Chinese, Malay.
-
-<!--
-**justin8ty/justin8ty** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- Email: justin8ty@gmail.com
+- GitHub: https://github.com/justin8ty
+- LinkedIn: https://www.linkedin.com/in/justin8ty/
+- Portfolio: https://justinty.pages.dev/
+- Resume: https://justinty.pages.dev/Justin-Tan-Resume-Software.pdf
